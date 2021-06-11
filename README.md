@@ -10,7 +10,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://
 
 
-a tecnologia controla o futuro.
+A tecnologia controla o futuro.
 
 Esse mundo que desafia os limites do ser humano e que a cada dia traz soluções para problemas que a algum tempo achavamos tão dificil de resolver.
 Simplesmente algo que amo.
