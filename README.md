@@ -1,6 +1,6 @@
 #### Olá, pessoal. Tudo bem? 👋🏼
 
-#### Carlos Abraão Chaves
+#### Eu sou Carlos Abraão Chaves
 
 #### Desenvolvedor Web/Mobile & Design gráfico
 
