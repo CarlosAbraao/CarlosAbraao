@@ -1,10 +1,10 @@
 ### Olá, pessoal.
 
-##Tudo bem? 
+## Tudo bem? 
 
-# Carlos Abraão Chaves
+### Carlos Abraão Chaves
 
-#Desenvolvedor Web/Mobile & Design gráfico
+# Desenvolvedor Web/Mobile & Design gráfico
 
 [![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://
