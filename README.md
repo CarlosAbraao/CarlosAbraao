@@ -15,5 +15,8 @@ simplesmente algo que amo.
 
 Seja meu amigo. E vamos compartilhar conhecimento! 👊
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/)](https://www.youtube.com/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-993399?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/carlos.abraao.ads/)](https://www.instagram.com/carlos.abraao.ads/) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/](https://codepen.io/))](https://codepen.io/)
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/)](https://www.youtube.com/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-993399?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/carlos.abraao.ads/)](https://www.instagram.com/carlos.abraao.ads/) 
+
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/](https://codepen.io/))](https://codepen.io/)
