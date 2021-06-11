@@ -1,4 +1,4 @@
-### Olá, pessoal. Tudo bem? 
+### Olá, pessoal. Tudo bem? 👋🏼
 
 ### Carlos Abraão Chaves
 
