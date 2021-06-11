@@ -10,8 +10,8 @@
 
 A tecnologia controla o futuro.
 
-Esse mundo que desafia os limites do ser humano e que a cada dia traz soluções para problemas que a algum tempo achavamos tão dificil de resolver.
-Simplesmente algo que amo.
+Esse mundo que desafia os limites do ser humano e que a cada dia traz soluções para problemas que a algum tempo achavamos tão dificil de resolver é
+simplesmente algo que amo.
 
 #### 🌍 "Quanto mais eu conheço, mais eu quero aprender. 🤓
 
